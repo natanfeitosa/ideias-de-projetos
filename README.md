@@ -75,6 +75,8 @@ Você já teve vontade de construir um projeto que só de olhar já dá aquele o
 
 ### Planos para o futuro
 
+Está nos planos criar alguma arte/banner para melhorar a cara do nosso repo.
+
 Planejamos adicionar cada vez mais ideias ao nosso repo.
 
 Futuramente também criaremos um site, onde você poderá navegar entre todas as ideias com facilidade, e ainda nossa comunidade poderá se ajudar
